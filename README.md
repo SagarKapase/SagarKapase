@@ -1,7 +1,7 @@
 # 💫 About Me:
 Upcoming Entrepreneur ⚡<br>
 Professional Software Engineer ⚡<br>
-🔭 I’m currently working on Spring Boot project<br>👯 Seeking a developer role in reputable organization.<br>🤝 I’m looking for help with developing a Rest api's<br>🌱 I’m currently learning Spring boot and AngularJS<br>💬 Ask me about Java 😁<br>⚡ Fun fact is I'm lazy but smart😂😂
+🔭 I’m currently working UTS Global as a Software Engineer<br>🤝<br>💬 Ask me about Java 😁<br>⚡ Fun fact is I'm lazy but smart😂😂
 
 
 ## 🌐 Socials:
