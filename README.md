@@ -1,7 +1,7 @@
 # 💫 About Me:
 Upcoming Entrepreneur ⚡<br>
 Professional Software Engineer ⚡<br>
-🔭 I’m currently working in UTS Global as a Software Engineer<br>🤝<br>💬 Ask me about Java 😁<br>⚡ Fun fact is I'm lazy but smart😂😂
+🔭 I’m currently working in UTS Global as a Software Engineer<br>🤝<br>
 
 
 ## 🌐 Socials:
