@@ -1,5 +1,4 @@
 # 💫 About Me:
-Upcoming Entrepreneur ⚡<br>
 Professional Software Engineer ⚡<br>
 🔭 I’m currently working in UTS Global as a Software Engineer<br>🤝<br>
 
